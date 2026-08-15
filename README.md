@@ -63,7 +63,7 @@ To run this engineering dashboard locally on your machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/P8-Fluid-Flow-Dashboard.git
+   git clone https://github.com/<gyemfuaasante>/P8-Fluid-Flow-Dashboard.git
    cd P8-Fluid-Flow-Dashboard
    ```
 
@@ -83,12 +83,12 @@ To run this engineering dashboard locally on your machine:
 
 ## 🌐 GitHub Repository & Live App Links
 
-* **GitHub Repository:** [https://github.com/<your-username>/P8-Fluid-Flow-Dashboard](https://github.com/<your-username>/P8-Fluid-Flow-Dashboard) *(Placeholder - update with your actual repository URL)*
-* **Live Application URL:** [https://<your-app-name>.streamlit.app](https://<your-app-name>.streamlit.app) *(Placeholder - update with your Streamlit Community Cloud URL after deployment)*
+* **GitHub Repository:** [https://github.com/<gyemfuaasante>/P8-Fluid-Flow-Dashboard](https://github.com/<gyemfuaasante>/P8-Fluid-Flow-Dashboard) 
+* **Live Application URL:** [https://fluid-flow-pipe-friction.streamlit.app/](https://fluid-flow-pipe-friction.streamlit.app/) 
 
 ---
 
 ## 🎓 Course Context
 This application was developed as part of:
 **Project 8 — Vibe Coding Mini-App: Deployed Engineering Dashboard**
-*(University Engineering Assignment)*
+
